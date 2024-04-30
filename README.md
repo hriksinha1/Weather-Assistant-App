@@ -1,0 +1,1 @@
+The purpose of the Weather Assistant App is to provide users with real-time weather information andforecasts for specified locations using natural language queries. The app leverages a language modelʼsFunction calling capability to interpret user queries and call the OpenWeatherMap API to fetch relevantweather data.
